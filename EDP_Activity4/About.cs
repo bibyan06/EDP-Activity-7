@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EDP_Activity4
+namespace SirKitsItems
 {
     public partial class About : Form
     {
