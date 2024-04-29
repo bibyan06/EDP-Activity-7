@@ -10,6 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//changed the namespace
 namespace SirKitsItems
 {
     public partial class About : Form
