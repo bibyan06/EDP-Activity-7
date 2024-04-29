@@ -85,7 +85,7 @@ namespace EDP_Activity4
                         if (rdr.HasRows)
                         {
                             // Successful login, navigate to the dashboard
-                            UserSession.LoggedInUsername = Username;
+                           
                             Username = usernametextBox.Text;
                             UpdateStatusToActive(username);
                             Dashboard();

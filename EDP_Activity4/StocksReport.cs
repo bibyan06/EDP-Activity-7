@@ -267,16 +267,14 @@ namespace EDP_Activity4
                     }
 
                     // Retrieve the username from the login form
-                    string username = UserSession.LoggedInUsername;
-
+                    
 
 
                     // Write the username to the last row in the Excel sheet
                     int lastRow = startRow + transactionsData.Rows.Count;
                     worksheet.Cell(lastRow + 1, startColumn - 1).Value = "Prepared By:";
                     worksheet.Cell(lastRow + 3, startColumn).Value = "Admin Officer";
-                    worksheet.Cell(lastRow + 3, startColumn + 1).Value = username.ToUpper();
-
+                    
                     // Save the modified workbook to the new file path
                     workbook.SaveAs(newFilePath);
 
