@@ -1,7 +1,7 @@
 ﻿using MySql.Data.MySqlClient;
 using System.Windows.Forms;
 
-namespace EDP_Activity4
+namespace SirKitsItems
 {
     public class Connection
     {
