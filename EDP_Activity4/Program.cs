@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace EDP_Activity4
+namespace SirKitsItems
 {
     internal static class Program
     {
