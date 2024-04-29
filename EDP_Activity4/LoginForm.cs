@@ -13,7 +13,7 @@ using FontAwesome.Sharp;
 using MySql.Data.MySqlClient;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
-namespace EDP_Activity4
+namespace SirKitsItems
 {
     public partial class Form1 : Form
     {
