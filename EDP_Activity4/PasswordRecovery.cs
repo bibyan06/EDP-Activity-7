@@ -11,7 +11,7 @@ using System.Windows.Forms;
 using FontAwesome.Sharp;
 using MySql.Data.MySqlClient;
 
-namespace EDP_Activity4
+namespace SirKitsItems
 {
     
     public partial class PasswordRecovery : Form
