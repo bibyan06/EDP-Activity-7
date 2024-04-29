@@ -12,7 +12,7 @@ using System.Xml.Linq;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
-namespace EDP_Activity4
+namespace SirKitsItems
 {
     public partial class AddAccount : Form
     {

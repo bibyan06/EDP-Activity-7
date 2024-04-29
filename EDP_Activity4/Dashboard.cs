@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 
-namespace EDP_Activity4
+namespace SirKitsItems
 {
     public partial class Dashboard : Form
     {

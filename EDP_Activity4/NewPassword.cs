@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
 
-namespace EDP_Activity4
+namespace SirKitsItems
 {
     public partial class NewPassword : Form
     {
